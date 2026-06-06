@@ -1,2 +1,3 @@
-# Code_alpha_IrisFlowerClassification
-This project uses Python and Scikit-learn to classify Iris flowers into three species using flower measurements. A K-Nearest Neighbors (KNN) model was trained and tested on the Iris dataset. The project includes data preprocessing, visualization, prediction, and performance evaluation using accuracy score and confusion matrix.
+# Codealpha_tasks
+This repository contains the projects completed during the CodeAlpha Data Science Internship. The projects cover machine learning, data analysis, and predictive modeling using Python. Tasks include Iris Flower Classification using K-Nearest Neighbors (KNN), Unemployment Analysis with Python to study trends and the impact of Covid-19, and Sales Prediction using Advertising Data through Linear Regression. These projects demonstrate skills in data preprocessing, exploratory data analysis, visualization, model building, evaluation, and generating data-driven insights using libraries such as Pandas, Matplotlib, Seaborn, and Scikit-learn.
+
